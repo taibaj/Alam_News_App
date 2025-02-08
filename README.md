@@ -1,7 +1,3 @@
-# Alam_News_App
-A great README file is essential to explain the purpose of your project, how to use it, and provide any other relevant information for others who may want to contribute or use your code. Here's a suggested structure for your README file for the news app:
-
----
 
 # News App
 
